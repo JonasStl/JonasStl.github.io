@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jonas Stehl"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Researcher in Economics | Research Training Group Sustainable Food Systems"
-  location         : "Earth"
+  bio              : "Doctoral Researcher in Economics" "RTG 2654 Sustainable Food Systems"
+  location         : #"Earth"
   employer         : "University of Goettingen"
   uri              : # URL
   email            : "jonas.stehl@uni-goettingen.de" 
