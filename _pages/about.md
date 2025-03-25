@@ -18,6 +18,11 @@ My research has been supported by the German Research Foundation (DFG), the Euro
 # Research areas
 Development Economics, Poverty, Food Security, Health
 
-# Other research interests
-Demography, Conflict, Climate Change
+# Publications
+- Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). Food Policy, 132: 102849.
+
+# Discussion Papers
+- Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries. Preprint available at Research Square [https://doi.org/10.21203/rs.3.rs-5874611/v1].
+- Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2024). Assessing self-sufficiency: analyzing the gap between national food production and food-based dietary guidance. Preprint available at Research Square [https://doi.org/10.21203/rs.3.rs-4214651/v1].
+- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. Developing a multidimensional resilience index for farm households: A food system approach. [SustainableFood Discussion Paper No. 14](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf).
 
