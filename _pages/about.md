@@ -24,5 +24,5 @@ Development Economics, Poverty, Food Security, Health
 # Discussion Papers
 - Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square.
 - Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2024). [Assessing self-sufficiency: analyzing the gap between national food production and food-based dietary guidance](https://doi.org/10.21203/rs.3.rs-4214651/v1). Preprint available at Research Square.
-- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. Developing a multidimensional resilience index for farm households: A food system approach. [SustainableFood Discussion Paper No. 14](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf).
+- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. [Developing a multidimensional resilience index for farm households: A food system approach](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf). SustainableFood Discussion Paper No. 14.
 
