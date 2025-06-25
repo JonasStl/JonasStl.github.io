@@ -19,15 +19,15 @@ My research has been supported by the German Research Foundation (DFG), the Euro
 Development Economics, Poverty, Food Security, Health
 
 # Publications
-- Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). Nature Food 6, 571–576 (2025).
+- Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). Nature Food 6, 571–576 (2025). <br>
   Media selection:
   * BBC Science Focus: [Only one country in the world produces all the food it needs, study finds.](https://www.sciencefocus.com/news/only-one-country-produces-food-it-needs-self-sufficient) 22.05.2025.
   * Welt: [Nur dieses Land schafft es, genug Nahrung für seine Bevölkerung zu produzieren.](https://www.welt.de/kmpkt/article256215526/nur-dieses-land-schafft-es-genug-nahrung-fuer-seine-bevoelkerung-zu-produzieren.html) 09.06.2025.
   * Metrópoles: [Apenas um país é autossuficiente em comida no mundo.](https://www.metropoles.com/ciencia/pais-autossuficiente-em-comida) 28.05.2025.
   * National Geographic Espana: [Solo hay un país en el mundo que produce suficiente comida para alimentar a toda su población.](https://www.nationalgeographic.com.es/medio-ambiente/solo-hay-pais-mundo-que-produce-suficiente-comida-para-alimentar-toda-su-poblacion_25221) 09.06.2025.
 
-  <br><br>
-- Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). Food Policy, 132: 102849.
+  <br>
+- Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). Food Policy, 132: 102849. <br>
   Media selection (older version of the paper):
   * ZDF: [Milliarden Menschen ohne gesunde Ernährung.](https://www.zdf.de/nachrichten/panorama/studie-ernaehrung-gesundheit-misereor-100.html) 01.10.2024.
   * TAZ: [Kein Geld für gesundes Essen.](https://taz.de/Studie-zu-Welternaehrung/!6036962) 01.10.2024.
