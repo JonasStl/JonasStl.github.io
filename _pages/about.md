@@ -31,7 +31,7 @@ Development Economics, Poverty, Food Security, Health
   Media selection (older version of the paper):
   * ZDF: [Milliarden Menschen ohne gesunde Ernährung.](https://www.zdf.de/nachrichten/panorama/studie-ernaehrung-gesundheit-misereor-100.html) 01.10.2024.
   * TAZ: [Kein Geld für gesundes Essen.](https://taz.de/Studie-zu-Welternaehrung/!6036962) 01.10.2024.
-  * Tagesspiegel: [„Ernährungsarmut dramatisch hoch“: Jeder Dritte hat kein Geld für gesundes Essen.](https://www.tagesspiegel.de/gesellschaft/panorama/ernahrungsarmut-dramatisch-hoch-jeder-dritte-hat-kein-geld-fur-gesundes-essen-12465635.html) 01.10.2024.}
+  * Tagesspiegel: [„Ernährungsarmut dramatisch hoch“: Jeder Dritte hat kein Geld für gesundes Essen.](https://www.tagesspiegel.de/gesellschaft/panorama/ernahrungsarmut-dramatisch-hoch-jeder-dritte-hat-kein-geld-fur-gesundes-essen-12465635.html) 01.10.2024.
 
 # Discussion Papers
 - Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square.
