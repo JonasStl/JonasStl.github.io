@@ -15,7 +15,7 @@
   </div>
 
   <div class="author__avatar">
-  <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+  <img src="{{ author.avatar | relative_url }}" alt="">
   {% if author.photo_credit %}
     <div class="author__avatar-credit">
       &copy; <a href="{{ author.photo_credit_url | default: '#' }}" rel="noopener">{{ author.photo_credit }}</a>
