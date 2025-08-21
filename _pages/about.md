@@ -30,7 +30,7 @@ Development Economics, Poverty, Food Security, Health
 
 # Ongoing Projects
 - Food Consumption Seasonality In Low- and Middle-Income Countries.
-  - Poster EAAE 2025
+  - [Poster EAAE 2025](/files/Poster_EAAE_Stehl.pdf)
 
 
 
