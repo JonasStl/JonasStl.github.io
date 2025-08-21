@@ -14,6 +14,15 @@
     {% endif %}
   </div>
 
+  <div class="author__avatar">
+  <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+  {% if author.photo_credit %}
+    <div class="author__avatar-credit">
+      &copy; <a href="{{ author.photo_credit_url | default: '#' }}" rel="noopener">{{ author.photo_credit }}</a>
+    </div>
+  {% endif %}
+</div>
+
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
