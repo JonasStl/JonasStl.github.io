@@ -19,8 +19,8 @@ My research has been supported by the German Research Foundation (DFG), the Euro
 Development Economics, Poverty, Food Security, Health
 
 # Publications
-- Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). Nature Food 6, 571–576 (2025).
-- Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). Food Policy, 132: 102849. <br><br>
+- Stehl J, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). *Nature Food* 6, 571–576 (2025).
+- Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). *Food Policy*, 132: 102849. <br><br>
 
 # Discussion Papers
 - Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square. Revise and resubmit from *Nature*.
