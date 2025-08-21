@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.author__avatar {
+  position: relative;
+  display: inline-block;
+}
+
+.author__avatar-credit {
+  font-size: 0.7rem;   /* smaller text */
+  line-height: 1.2;
+  margin-top: 0.2rem;
+  opacity: 0.65;       /* lighter */
+}
+
+.author__avatar-credit a {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor; /* subtle */
+}
