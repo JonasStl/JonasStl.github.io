@@ -25,8 +25,8 @@ Development Economics, Poverty, Food Security, Health
 - Stehl J, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). Food Policy, 132: 102849. <br><br>
 
 # Discussion Papers
-- Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square.
-- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. [Developing a multidimensional resilience index for farm households: A food system approach](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf). SustainableFood Discussion Paper No. 14.
+- Stehl J, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square. Revise and resubmit from *Nature*.
+- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. [Developing a multidimensional resilience index for farm households: A food system approach](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf). SustainableFood Discussion Paper No. 14. Revise and resubmit from *World Development*.
 
 # Ongoing Projects
 - Food Consumption Seasonality In Low- and Middle-Income Countries.
