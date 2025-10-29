@@ -27,10 +27,10 @@ Development Economics, Poverty, Food Security, Health
 - Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, Stehl J, Wehner J, Wollni M. [Developing a multidimensional resilience index for farm households: A food system approach](https://www.uni-goettingen.de/de/document/download/e8eb924cae9542987432854228e66dfd.pdf/SFS_DP_014.pdf). SustainableFood Discussion Paper No. 14. Revise and resubmit from *World Development*.
 
 # Ongoing Projects
-- Food Consumption Seasonality In Low- and Middle-Income Countries.
+- Food Consumption Seasonality In Low- and Middle-Income Countries. *Joint work with Sebastian Vollmer and Liesbeth Colen*
   - [Poster EAAE 2025](/files/Poster_EAAE_Stehl.pdf)
-- Ancestral subsistence practices and food consumption today.
-- Business or job skill training? Experimental evidence from young women in Liberia.
+- Ancestral subsistence practices and food consumption today. *Joint work with Sebastian Vollmer*
+- Business or job skill training? Experimental evidence from young women in Liberia. *Joint work with Juliane Zenker, Shubha Chakravarty, and Mattias Lundberg*
 
 
 
