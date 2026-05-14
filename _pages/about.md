@@ -25,5 +25,4 @@ Development Economics, Poverty, Food Security, Health
 # Discussion Papers
 - **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square.
 - Zenker J, **Stehl J**, Chakravarty S, Lundberg M (2025). [Wrong Fit, Missed Gains? Evidence from Skill Training Choices in Liberia](https://ssrn.com/abstract=5928394). 
-
-
+- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1). Preprint available at Research Square.
