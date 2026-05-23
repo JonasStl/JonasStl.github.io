@@ -17,12 +17,15 @@ In my research, I use descriptive, experimental, quasi-experimental, and machine
 # Research areas
 Development Economics, Poverty, Food Security, Health
 
+# News
+Received the Florenz Sartorius Prize for the best dissertation in economics in 2025, awarded by the Faculty of Business and Economics at the University of Göttingen. 
+
 # Publications
-- **Stehl J**, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). *Nature Food* 6, 571–576 (2025).
-- **Stehl J**, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). *Food Policy*, 132: 102849.
-- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, **Stehl J**, Wehner J, Wollni M (2026). [Developing a multidimensional resilience index for farm households: A food system approach](https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005). *World Development, 202: 107342*.<br><br>
+- **Stehl J**, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). ***Nature Food*** 6, 571–576 (2025).
+- **Stehl J**, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). ***Food Policy***, 132: 102849.
+- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, **Stehl J**, Wehner J, Wollni M (2026). [Developing a multidimensional resilience index for farm households: A food system approach](https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005). ***World Development***, 202: 107342.<br><br>
 
 # Discussion Papers
-- **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). Preprint available at Research Square.
+- **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1).
 - Zenker J, **Stehl J**, Chakravarty S, Lundberg M (2025). [Wrong Fit, Missed Gains? Evidence from Skill Training Choices in Liberia](https://ssrn.com/abstract=5928394). 
-- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1). Preprint available at Research Square.
+- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1).
