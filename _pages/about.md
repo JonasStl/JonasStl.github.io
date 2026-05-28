@@ -18,7 +18,7 @@ In my research, I use descriptive, experimental, quasi-experimental, and machine
 Development Economics, Poverty, Food Security, Health
 
 # News
-Received the [Florenz Sartorius Prize](https://www.uni-goettingen.de/de/54088.html?id=8163) for the best dissertation in economics in 2025, awarded by the Faculty of Business and Economics at the University of Göttingen. 
+Received the [Florenz Sartorius Prize](https://uni-goettingen.de/en/707512.html) for the best dissertation in economics in 2025, awarded by the Faculty of Business and Economics at the University of Göttingen. 
 
 # Publications
 - **Stehl J**, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). ***Nature Food*** 6, 571–576 (2025).
