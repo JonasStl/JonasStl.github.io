@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Göttingen, member of the Research Training Group 2654 Sustainable Food Systems and the Chair of Development Economics and Global Health.
+I am a postdoctoral researcher at the University of Göttingen, Chair of Development Economics and Global Health. Former member of the Research Training Group 2654 Sustainable Food Systems.
 
 My work focuses on food security and poverty, primarily in low- and middle-income countries. Drawing on large cross-country and geospatial data, I study dietary patterns around the globe, focusing on the affordability of nutritious foods and the role of self-sufficiency and market dependencies at both micro and macro levels. I also investigate the long-term persistence of these patterns. Additionally, I examine the conceptual foundations of poverty and investigate whether labor market programs can effectively alleviate it.
 
