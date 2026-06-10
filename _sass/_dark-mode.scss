@@ -111,6 +111,7 @@ select {
   position: absolute;
   top: 50%;
   right: 1rem;
+  z-index: 30;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -122,6 +123,7 @@ select {
   border: 1px solid transparent;
   border-radius: 50%;
   cursor: pointer;
+  pointer-events: auto;
   transform: translateY(-50%);
   transition: $global-transition;
 

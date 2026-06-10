@@ -53,6 +53,15 @@
     applyTheme(nextTheme);
   }
 
+  function bindToggle() {
+    var toggle = document.getElementById("theme-toggle");
+
+    if (toggle && !toggle.getAttribute("data-theme-toggle-bound")) {
+      toggle.addEventListener("click", toggleTheme);
+      toggle.setAttribute("data-theme-toggle-bound", "true");
+    }
+  }
+
   applyTheme();
 
   if (mediaQuery) {
@@ -69,13 +78,10 @@
     }
   }
 
+  bindToggle();
+
   document.addEventListener("DOMContentLoaded", function() {
-    var toggle = document.getElementById("theme-toggle");
-
-    if (toggle) {
-      toggle.addEventListener("click", toggleTheme);
-    }
-
+    bindToggle();
     applyTheme();
   });
 }());
