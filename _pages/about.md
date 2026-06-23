@@ -21,7 +21,7 @@ Development Economics, Poverty, Food Security, Health
 
 - Awarded the [1st Prize for Excellence in Applied Development Research](https://entwicklungsoekonomischer-ausschuss.de/foerderpreis-fuer-praxisrelevante-entwicklungsforschung-3/) by the German Economic Association and KfW Development Bank for my dissertation.
 
-- Finalist in the German Thesis Award [(Deutscher Studienpreis)](https://koerber-stiftung.de/en/press/statements/30-promovierte-fuer-den-deutschen-studienpreis-2026-nominiert/).
+- Finalist of the German Thesis Award [(Deutscher Studienpreis)](https://koerber-stiftung.de/en/press/statements/30-promovierte-fuer-den-deutschen-studienpreis-2026-nominiert/).
 
 - Received the [Florenz Sartorius Prize](https://uni-goettingen.de/en/707512.html) for the best dissertation in economics in 2025, awarded by the Faculty of Business and Economics at the University of Göttingen. 
 
@@ -31,7 +31,7 @@ Development Economics, Poverty, Food Security, Health
 - Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, **Stehl J**, Wehner J, Wollni M (2026). [Developing a multidimensional resilience index for farm households: A food system approach](https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005). ***World Development***, 202: 107342.<br><br>
 
 # Discussion Papers
-- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1). *R&R Nature Food*.
-- **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1). *R&R Nature*.
+- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1). 
+- **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1).
 - Zenker J, **Stehl J**, Chakravarty S, Lundberg M (2025). [Wrong Fit, Missed Gains? Evidence from Skill Training Choices in Liberia](https://ssrn.com/abstract=5928394). 
 
