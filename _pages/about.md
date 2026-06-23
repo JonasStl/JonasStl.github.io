@@ -19,7 +19,7 @@ Development Economics, Poverty, Food Security, Health
 
 # News
 
-- Awarded the [(1st Prize for Excellence in Applied Development Research)](https://entwicklungsoekonomischer-ausschuss.de/foerderpreis-fuer-praxisrelevante-entwicklungsforschung-3/) by the German Economic Association and KfW Development Bank for my dissertation.
+- Awarded the [1st Prize for Excellence in Applied Development Research](https://entwicklungsoekonomischer-ausschuss.de/foerderpreis-fuer-praxisrelevante-entwicklungsforschung-3/) by the German Economic Association and KfW Development Bank for my dissertation.
 
 - Finalist in the German Thesis Award [(Deutscher Studienpreis)](https://koerber-stiftung.de/en/press/statements/30-promovierte-fuer-den-deutschen-studienpreis-2026-nominiert/).
 
