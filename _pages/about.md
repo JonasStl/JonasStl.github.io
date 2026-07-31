@@ -19,7 +19,7 @@ Development Economics, Poverty, Food Security, Health
 
 # News
 
-- VoxDev Blog: [When vocational training applicants fare better in business training programmes](https://voxdev.org/topic/labour-markets/when-vocational-training-applicants-fare-better-business-training-programmes) *(31.07.2026)*.
+- VoxDev Blog: [When vocational training applicants fare better in business training programmes](https://voxdev.org/topic/labour-markets/when-vocational-training-applicants-fare-better-business-training-programmes), *31.07.2026*.
 
 - Awarded the [1st Prize for Excellence in Applied Development Research](https://entwicklungsoekonomischer-ausschuss.de/foerderpreis-fuer-praxisrelevante-entwicklungsforschung-3/) by the German Economic Association and KfW Development Bank for my dissertation.
 
