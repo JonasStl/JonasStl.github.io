@@ -9,28 +9,22 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2 id="peer-reviewed">Peer-reviewed</h2>
+<ul>
+  <li><strong>Stehl J</strong>, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). <a href="https://www.nature.com/articles/s43016-025-01173-4">Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency</a>. <strong><em>Nature Food</em></strong> 6, 571–576 (2025).</li>
+  <li><strong>Stehl J</strong>, Depenbusch L, Vollmer S (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub">Global poverty and the cost of a healthy diet</a>. <strong><em>Food Policy</em></strong>, 132: 102849.</li>
+  <li>Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, <strong>Stehl J</strong>, Wehner J, Wollni M (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005">Developing a multidimensional resilience index for farm households: A food system approach</a>. <strong><em>World Development</em></strong>, 202: 107342.</li>
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2 id="discussion-papers">Discussion Papers</h2>
+<ul>
+  <li><strong>Stehl J</strong> (2026). <a href="https://doi.org/10.21203/rs.3.rs-9392154/v1">Food expenditure shares across consumption distributions worldwide</a>.</li>
+  <li><strong>Stehl J</strong> and CD Golden (2026). <a href="https://doi.org/10.21203/rs.3.rs-10804157/v1">Welfare gradients in global animal-source food consumption reveal that aquatic foods are critical for poor households</a>.</li>
+  <li>Zenker J, <strong>Stehl J</strong>, Chakravarty S, Lundberg M (2025). <a href="https://ssrn.com/abstract=5928394">Wrong Fit, Missed Gains? Evidence from Skill Training Choices in Liberia</a>.</li>
+  <li><strong>Stehl J</strong>, Sibhatu K, Jaacks LM, Vollmer S (2025). <a href="https://doi.org/10.21203/rs.3.rs-5874611/v1">Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries</a>.</li>
+</ul>
 
-
-
+<h2 id="other">Other</h2>
+<ul>
+  <li>VoxDev Blog: <a href="https://www.voxdev.org/topic/labour-markets/when-vocational-training-applicants-fare-better-business-training-programmes">When vocational training applicants fare better in business training programmes</a>, <em>31.07.2026</em>.</li>
+</ul>

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Göttingen, Chair of Development Economics and Global Health. Former member of the Research Training Group 2654 Sustainable Food Systems. I was a visiting researcher at the University of Edinburgh and the Harvard T.H. Chan School of Public Health.
+I am a postdoctoral researcher at the University of Göttingen, Development Economics and Global Health Research Group. Former member of the Research Training Group 2654 Sustainable Food Systems. I was a visiting researcher at the University of Edinburgh and the Harvard T.H. Chan School of Public Health.
 
 My work focuses on food security and poverty, primarily in low- and middle-income countries. Drawing on large cross-country and geospatial data, I study dietary patterns around the globe, focusing on the affordability of nutritious foods and the role of self-sufficiency and market dependencies at both micro and macro levels. I also investigate the long-term persistence of these patterns. Additionally, I examine the conceptual foundations of poverty and investigate whether labor market programs can effectively alleviate it.
 
@@ -15,11 +15,9 @@ In my research, I use descriptive, experimental, quasi-experimental, and machine
 
 
 # Research areas
-Development Economics, Poverty, Food Security, Health
+Development Economics, Poverty, Food Security, Global Health
 
 # News
-
-- VoxDev Blog: [When vocational training applicants fare better in business training programmes](https://www.voxdev.org/topic/labour-markets/when-vocational-training-applicants-fare-better-business-training-programmes), *31.07.2026*.
 
 - Awarded the [1st Prize for Excellence in Applied Development Research](https://entwicklungsoekonomischer-ausschuss.de/foerderpreis-fuer-praxisrelevante-entwicklungsforschung-3/) by the German Economic Association and KfW Development Bank for my dissertation.
 
@@ -28,14 +26,3 @@ Development Economics, Poverty, Food Security, Health
 - Finalist of the German Thesis Award [(Deutscher Studienpreis)](https://koerber-stiftung.de/en/press/statements/30-promovierte-fuer-den-deutschen-studienpreis-2026-nominiert/).
 
 - Nominee of the [Ludwig-Erhard-Prize](https://www.ludwig-erhard-initiative.de/fuerther-ludwig-erhard-preis/preisverleihung-2026/).
-
-# Publications
-- **Stehl J**, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). ***Nature Food*** 6, 571–576 (2025).
-- **Stehl J**, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). ***Food Policy***, 132: 102849.
-- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, **Stehl J**, Wehner J, Wollni M (2026). [Developing a multidimensional resilience index for farm households: A food system approach](https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005). ***World Development***, 202: 107342.<br><br>
-
-# Discussion Papers
-- **Stehl J** (2026). [Food expenditure shares across consumption distributions worldwide](https://doi.org/10.21203/rs.3.rs-9392154/v1). 
-- **Stehl J** and CD Golden (2026). [Welfare gradients in global animal-source food consumption reveal that aquatic foods are critical for poor households](https://doi.org/10.21203/rs.3.rs-10804157/v1).
-- Zenker J, **Stehl J**, Chakravarty S, Lundberg M (2025). [Wrong Fit, Missed Gains? Evidence from Skill Training Choices in Liberia](https://ssrn.com/abstract=5928394). 
-- **Stehl J**, Sibhatu K, Jaacks LM, Vollmer S (2025). [Food Sourcing and Diets: Evidence from 45 Low- and Middle-Income Countries](https://doi.org/10.21203/rs.3.rs-5874611/v1).

@@ -92,7 +92,6 @@ td,
 
 .masthead,
 .greedy-nav,
-.author__urls,
 .greedy-nav .hidden-links,
 .toc,
 .modal,
@@ -171,6 +170,12 @@ select {
 }
 
 .author__urls {
+  background: var(--global-card-bg-color);
+
+  @include breakpoint($large) {
+    background: transparent;
+  }
+
   &:before {
     border-color: var(--global-border-color) transparent;
   }
