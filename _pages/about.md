@@ -26,3 +26,9 @@ Development Economics, Poverty, Food Security, Global Health
 - Finalist of the German Thesis Award [(Deutscher Studienpreis)](https://koerber-stiftung.de/en/press/statements/30-promovierte-fuer-den-deutschen-studienpreis-2026-nominiert/).
 
 - Nominee of the [Ludwig-Erhard-Prize](https://www.ludwig-erhard-initiative.de/fuerther-ludwig-erhard-preis/preisverleihung-2026/).
+
+# Publications
+
+- **Stehl J**, Vonderschmidt A, Vollmer S, Alexander P, Jaacks LM (2025). [Gap between national food production and food-based dietary guidance highlights lack of national self-sufficiency](https://www.nature.com/articles/s43016-025-01173-4). ***Nature Food*** 6, 571–576 (2025).
+- **Stehl J**, Depenbusch L, Vollmer S (2025). [Global poverty and the cost of a healthy diet](https://www.sciencedirect.com/science/article/pii/S0306919225000533?via%3Dihub). ***Food Policy***, 132: 102849.
+- Squarcina M, Hänsch J, Montoya Cepeda FM, Pallauf M, Paz B, **Stehl J**, Wehner J, Wollni M (2026). [Developing a multidimensional resilience index for farm households: A food system approach](https://www.sciencedirect.com/science/article/pii/S0305750X26000318#ecom0005). ***World Development***, 202: 107342.
